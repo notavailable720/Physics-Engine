@@ -20,7 +20,6 @@ function setup(){
         frictionAir: 0,
         restitution: 1,
         density: 1.5,
-        force
     }
 
     ground = Bodies.rectangle(200,390,200,20,ground_options);
